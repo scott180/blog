@@ -82,6 +82,7 @@ module.exports = {
                 {title:'二十四式太极拳',path:'随笔/二十四式太极拳'},
                 {title:'短期远行必备物品',path:'随笔/短期远行必备物品'},
                 {title:'我的原神旅行观测记录',path:'随笔/我的原神旅行观测记录'},
+                {title:'纪念一下，三百天打满深渊',path:'随笔/纪念一下，三百天打满深渊'},
               ]					
             },
 			{
@@ -167,6 +168,7 @@ module.exports = {
 				{title:'markdown常用语法',path:'资料/markdown常用语法'},
 				{title:'window安装RabbitMQ',path:'资料/window安装RabbitMQ'},
 				{title:'markdown导出pdf方法优劣分析',path:'资料/markdown导出pdf方法优劣分析'},
+				{title:'十大git仓库平台保存文件与图片',path:'资料/十大git仓库平台保存文件与图片'},
 				{title:'系统磁盘c盘清理垃圾文件方法一览',path:'资料/系统磁盘c盘清理垃圾文件方法一览'},
 				{title:'pagefile.sys有几十个G，太大怎么办',path:'资料/pagefile.sys有几十个G，太大怎么办'},
 			  ]
