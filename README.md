@@ -18,5 +18,5 @@
 | 序号  | 平台    | 地址        |  备注          |
 | ----- | -----   | ----------- |  ------------- |
 | 1     | gitlab  | [MyNotes]( https://gitlab.com/xuyq123/mynotes )                  | 编程笔记   |
-| 2     | github  | [vuepress-blog]( https://github.com/scott180/blog )  	 | 博客网站   |
+| 2     | github  | [vuepress-blog]( https://github.com/scott180/blog )  	         | 博客网站   |
 | 3     | gitcode | [document]( https://gitcode.net/xu180/document )  				 | 生活随笔   |
