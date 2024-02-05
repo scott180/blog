@@ -2,7 +2,7 @@
 
 <br />
 
-[blog]( https://xushufa.cn ) &ensp;  [gitlab]( https://gitlab.com/xuyq123/mynotes ) &ensp; [gitee]( https://gitee.com/xy180/MyNotes ) &ensp; [github]( https://github.com/scott180/MyNotes ) &ensp; [xushufa]( https://vuepress-blog.xushufa.cn )
+[xushufa]( https://xushufa.cn ) &ensp;  [gitlab]( https://gitlab.com/xuyq123/mynotes ) &ensp; [gitee]( https://gitee.com/xy180/MyNotes ) &ensp; [github]( https://github.com/scott180/MyNotes ) &ensp; [blog]( https://vuepress-blog.xushufa.cn )
 
 <br />
 
@@ -25,7 +25,7 @@ Ctrl+W  关闭程序
 Ctrl+Z  撤销刚才进行的操作
 Ctrl+Y  恢复刚才进行的操作
 Ctrl+N  新建一个空白文档
-Ctrl+P  打开"打印"对话框
+Ctrl+P  打开打印
 Ctrl+O  打开文档
 
 Ctrl+Shift	输入法切换
@@ -36,19 +36,19 @@ Ctrl+Shift+End	选中当前到末尾所有内容
 Ctrl+Shift+Esc	打开任务管理器
 Ctrl+Shift+Del	浏览器打开清除缓存对话框
 
-Alt+Tab     程序切换（小图标）
-Win+Tab     程序切换（大图标）
+Alt+Tab     程序切换-小图标
+Win+Tab     程序切换-大图标
 
 Win     显示开始菜单
 Win+L   锁定计算机
 Win+E   启动"我的电脑"
 Win+D   快速显示桌面
 
-Win+R   打开"运行"对话框，输入命令开启相关功能
-cmd 			命令行控制台
-reg 			注册表
+Win+R		打开运行-输入命令开启相关功能
+cmd			命令行控制台
+reg			注册表
 mstsc			远程登录
-services.msc 	本地服务
+services.msc		本地服务
 	
 F2   文件改名
 F5   浏览器页面刷新
@@ -75,7 +75,7 @@ Shift+光标+右键	 选中内容
 右击--打开方式--选择默认程序
 
 **3.注册表设置** <br/>
-Win+R 在运行里面输入regedit（注册表编辑器），HEY_CLASS_ROOT下面是所有文件的后缀名文件，找到你想取消关联的后缀名，如.ppt。 <br/>
+Win+R 在运行里面输入regedit（注册表编辑器），`HEY_CLASS_ROOT`下面是所有文件的后缀名文件，找到你想取消关联的后缀名，如.ppt。 <br/>
 单击这个文件夹，右边出现的“数据”一项，双击“（默认）”，打开对话框，将“数据”下面可以填写的部分清除，保持空白，确定。 <br/>
 
 你的电脑里面所有.ppt文件就没有了任何关联和默认程序，再按自己的想法重新关联或默认就行了。 <br/>
@@ -193,18 +193,18 @@ gitlab docsify主题仓库
 
 | 序号  | 平台    | 仓库地址    |  git静态页面   | 域名  | 说明 |
 | ----- | -----   | ----------- |  ------------- | ----  | ---- |
-| 1     | github  | [**reco-blog**]( https://github.com/scott180/reco-blog )  	 | [github.io/reco-blog]( https://scott180.github.io/reco-blog )   | [xushufa]( https://xushufa.cn) |  vuepress-reco部署网站 |
-| 2     | github  | [**vuepress-blog**]( https://github.com/scott180/vuepress-blog )  	 | [github.io/vuepress-blog]( https://scott180.github.io/vuepress-blog )   | [vuepress-blog.xushufa]( https://vuepress-blog.xushufa.cn) | vuepress部署网站 |
-| 3     | github  | [blog]( https://github.com/scott180/blog )  	 | [github.io/blog]( https://scott180.github.io/blog )   | [blog.xushufa]( https://blog.xushufa.cn) | vuepress部署网站 |
-| 4     | github  | [tool]( https://github.com/scott180/tool )  	 | [github.io/tool]( https://scott180.github.io/tool )   | [tool.xushufa]( https://tool.xushufa.cn) |  工具网站 |
-| 5     | github  | [docsify-blog]( https://github.com/scott180/docsify-blog )  	 | [github.io/docsify]( https://scott180.github.io/docsify-blog/ )   | [docsify-blog.xushufa]( https://docsify-blog.xushufa.cn) | docsify部署网站 |
-| 6     | **github**  | [gitbook-blog]( https://github.com/scott180/gitbook-blog )  	 | [github.io/gitbook]( https://scott180.github.io/gitbook-blog ) | -- | gitbook部署网站 |
-| 7     | gitlab  | [mkdocs-blog]( https://gitlab.com/xuyq123/mkdocs-blog )     | [gitlab.io/mkdocs]( https://xuyq123.gitlab.io/mkdocs-blog )   | -- | mkdocs部署网站  |
-| 8     | gitlab  | [**MyNotes**]( https://gitlab.com/xuyq123/mynotes )         | [files]( https://gitlab.com/xuyq123/mynotes/-/blob/master/%E6%96%87%E6%A1%A3%E7%9B%AE%E5%BD%95.md )   | -- | **编程笔记** |
-| 9     | gitcode | [**document**]( https://gitcode.net/xu180/document )  			| [note]( https://gitcode.net/xu180/document/-/blob/master/article/%E9%9A%8F%E7%AC%94/%E6%97%A5%E5%B8%B8Note.md )  | -- | 生活随笔 |
-| 10    | npm | [xushufa]( https://www.npmjs.com/~xushufa )  | [img]( https://cdn.jsdelivr.net/npm/xushufa-shu/yan/duo1-1000/0001大.jpg ) 	| -- 		  | 资料管理   |
-| 11     | bitbucket | [**imgs**]( https://bitbucket.org/xu12345/document/src/master/imgs/ )  		| [img]( https://bitbucket.org/xu12345/document/raw/87e65566e45e063244eab491abe2dab0f43de59d/imgs/shufa/%E7%8E%8B%E7%BE%B2%E4%B9%8B-%E5%85%B0%E4%BA%AD%E9%9B%86%E5%BA%8F.jpg ) 	| --   | 图片仓库   |
-| 12    | sourceforge | [xdocument]( https://sourceforge.net/p/xdocument/code/ci/master/tree/ )  | [ReadMe]( https://sourceforge.net/p/xdocument/code/ci/master/tree/README.md ) 	| -- 		  | 图片仓库   |
+| 1     | github  | [**reco-blog**]( https://github.com/scott180/reco-blog )  	      | [github.io/reco-blog]( https://scott180.github.io/reco-blog )         | [xushufa]( https://xushufa.cn) |  vuepress-reco部署网站    |
+| 2     | github  | [**vuepress-blog**]( https://github.com/scott180/vuepress-blog )  | [github.io/vuepress-blog]( https://scott180.github.io/vuepress-blog ) | [vuepress-blog.xushufa]( https://vuepress-blog.xushufa.cn) | vuepress部署网站 |
+| 3     | github  | [blog]( https://github.com/scott180/blog )  	 | [github.io/blog]( https://scott180.github.io/blog )   | [blog.xushufa]( https://blog.xushufa.cn) | vuepress部署网站     |
+| 4     | github  | [tool]( https://github.com/scott180/tool )  	 | [github.io/tool]( https://scott180.github.io/tool )   | [tool.xushufa]( https://tool.xushufa.cn) | 工具网站             |
+| 5     | github  | [docsify-blog]( https://github.com/scott180/docsify-blog )  	  | [github.io/docsify]( https://scott180.github.io/docsify-blog/ )   | [docsify-blog.xushufa]( https://docsify-blog.xushufa.cn)       | docsify部署网站  |
+| 6     | **github**  | [gitbook-blog]( https://github.com/scott180/gitbook-blog )    | [github.io/gitbook]( https://scott180.github.io/gitbook-blog )    | -- | gitbook部署网站 |
+| 7     | gitlab      | [mkdocs-blog]( https://gitlab.com/xuyq123/mkdocs-blog ) | [gitlab.io/mkdocs]( https://xuyq123.gitlab.io/mkdocs-blog )             | -- | mkdocs部署网站  |
+| 8     | gitlab      | [**MyNotes**]( https://gitlab.com/xuyq123/mynotes )     | [files]( https://gitlab.com/xuyq123/mynotes/-/blob/master/%E6%96%87%E6%A1%A3%E7%9B%AE%E5%BD%95.md )              | -- | **编程笔记** |
+| 9     | gitcode     | [**document**]( https://gitcode.net/xu180/document )  	| [note]( https://gitcode.net/xu180/document/-/blob/master/article/%E9%9A%8F%E7%AC%94/%E6%97%A5%E5%B8%B8Note.md )  | -- | 生活随笔     |
+| 10    | npm         | [xushufa]( https://www.npmjs.com/~xushufa )             | [img]( https://cdn.jsdelivr.net/npm/xushufa-shu/yan/duo1-1000/0001大.jpg ) 	                                   | -- | 资料管理     |
+| 11    | bitbucket   | [**imgs**]( https://bitbucket.org/xu12345/document/src/master/imgs/ )    | [img]( https://bitbucket.org/xu12345/document/raw/87e65566e45e063244eab491abe2dab0f43de59d/imgs/shufa/%E7%8E%8B%E7%BE%B2%E4%B9%8B-%E5%85%B0%E4%BA%AD%E9%9B%86%E5%BA%8F.jpg )  | --   | 图片仓库   |
+| 12    | sourceforge | [xdocument]( https://sourceforge.net/p/xdocument/code/ci/master/tree/ )  | [readMe]( https://sourceforge.net/p/xdocument/code/ci/master/tree/README.md ) 	               | -- | 图片仓库     |
 
 
 
